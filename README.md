@@ -3,6 +3,8 @@
 An academic writing style skill for improving clarity, conciseness, and avoiding AI-generated writing patterns in English manuscripts.
 
 > **Originally created with [opencode](https://github.com/opencode-ai/opencode)** — also installable on Claude Code and OpenAI Codex CLI.
+>
+> **Forked from** [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) — a Korean AI-pattern removal skill. This repository adapts the same architecture and philosophy for English academic writing.
 
 ---
 
